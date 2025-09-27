@@ -51,7 +51,7 @@ const About: React.FC = () => {
               transition={{ duration: 0.8, delay: 0.2 }}
             >
               <img
-                src="https://images.unsplash.com/photo-1590725175961-3c0c21900537?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+                src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
                 alt="Construction team at work"
                 className="rounded-xl shadow-2xl w-full"
                 loading="lazy"
